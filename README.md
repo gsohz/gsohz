@@ -7,6 +7,12 @@
 - 💞️ I love programming, audiovisual, music, automation, games, movies and series
 - 🌱 I’m currently learning <strong>Backend</strong>
 
+<br>
+
+
+[![gsohz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsohz&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsohz&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
  <hr>
 
 <!-- Known Languages -->  

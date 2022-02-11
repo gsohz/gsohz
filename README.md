@@ -2,7 +2,7 @@
 
 <!-- Bio -->  
 - 🎓 I'm an <strong>Electronics Technician</strong> graduated from ETEC Aristóteles Ferreira
-- 🏫 I'm currently studying <strong>Analysis and Systems Development</strong> at IFSP - Cubatão
+- 🏫 I'm currently studying <strong>Systems Analysis and Development</strong> at IFSP - Cubatão
 - 👀 I’m interested in opportunities to challenge myself and improve my skills
 - 💞️ I love programming, audiovisual, music, automation, games, movies and series
 - 🌱 I’m currently learning <strong>Backend</strong>

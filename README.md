@@ -5,7 +5,7 @@
 - 🏫 I'm currently studying <strong>Systems Analysis and Development</strong> at IFSP - Cubatão
 - 👀 I’m interested in opportunities to challenge myself and improve my skills
 - 💞️ I love programming, audiovisual, music, automation, games, movies and series
-- 🌱 I’m currently learning <strong>Backend</strong>
+- 🌱 I’m currently learning <strong>Full Stack</strong>
 
 <br>
 

@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Gabriel Ferreira de Souza
 
 <!-- Bio -->  
-- 🎓 I'm an <strong>Electronics Technician</strong> graduated from ETEC Aristóteles Ferreira
-- 🏫 I'm currently studying <strong>Systems Analysis and Development</strong> at IFSP - Cubatão
+- 🎓 I'm an <strong>Electronics Technician</strong> graduated from <i>ETEC Aristóteles Ferreira</i>
+- 🏫 I'm currently studying <strong>Systems Analysis and Development</strong> at <i>IFSP - Cubatão</i>
 - 👀 I’m interested in opportunities to challenge myself and improve my skills
 - 💞️ I love programming, audiovisual, music, automation, games, movies and series
 - 🌱 I’m currently learning <strong>Full Stack</strong>

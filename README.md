@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning <strong>Full Stack</strong>
 
 
-<div display="block" align="center">
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsohz&show_icons=true&theme=github_dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsohz&layout=compact&show_icons=true&theme=github_dark&hide=handlebars)"/>
 </div>

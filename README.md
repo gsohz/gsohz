@@ -51,7 +51,7 @@
  <hr>
  
  <!-- Known Programming Frameworks --> 
- ### Programming Frameworks
+ ### Programming Frameworks/Libraries
  <div>
    <img align="center" title="Express.js" alt="Express.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
    <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

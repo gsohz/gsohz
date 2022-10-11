@@ -1,12 +1,16 @@
+
+
 ## 👋 Hi, I’m Gabriel Ferreira de Souza
 
 <!-- Bio -->  
-- 🎓 I'm an <strong>Electronics Technician</strong> graduated from <i>ETEC Aristóteles Ferreira</i>
-- 🏫 I'm currently studying <strong>Systems Analysis and Development</strong> at <i>IFSP - Cubatão</i>
-- 👀 I’m interested in opportunities to challenge myself and improve my skills
-- 💞️ I love programming, audiovisual, music, automation, games, movies and series
-- 🌱 I’m currently learning <strong>Full Stack</strong>
-
+<img height="130" align="right" src="https://media0.giphy.com/media/ZAaaCK5RhUWxG/200.gif" />
+<ul align="left">
+<li>🎓 I'm an <strong>Electronics Technician</strong> graduated from <i>ETEC Aristóteles Ferreira</i></li>
+<li>🏫 I'm currently studying <strong>Systems Analysis and Development</strong> at <i>IFSP - Cubatão</i></li>
+<li>👀 I’m interested in opportunities to challenge myself and improve my skills</li>
+<li>💞️ I love programming, audiovisual, music, automation, games, movies and series</li>
+<li>🌱 I’m currently learning <strong>Full Stack</strong></li>
+</ul>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsohz&show_icons=true&theme=github_dark" />
@@ -64,5 +68,9 @@
   [![Linkedin](https://img.shields.io/badge/Gabriel%20Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-055146210/)
   [![Gmail](https://img.shields.io/badge/Gabriel_Souza-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfe.desouza@gmail.com)
   [![Instagram](https://img.shields.io/badge/g.sohz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/g.sohz/)
-
- 
+  
+  <div>
+   <h2> Sorry, the snake ate my work</h2>
+  </div>
+  
+![Snake animation](https://github.com/gsohz/gsohz/blob/output/github-contribution-grid-snake.svg)

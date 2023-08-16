@@ -68,9 +68,11 @@
   [![Linkedin](https://img.shields.io/badge/Gabriel%20Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-055146210/)
   [![Gmail](https://img.shields.io/badge/Gabriel_Souza-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfe.desouza@gmail.com)
   [![Instagram](https://img.shields.io/badge/g.sohz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/g.sohz/)
-  
+
+  <!--
   <div>
    <h2> Sorry, the snake ate my work</h2>
   </div>
   
 ![Snake animation](https://github.com/gsohz/gsohz/blob/output/github-contribution-grid-snake.svg)
+-->

@@ -65,7 +65,7 @@
   
   <!-- Social -->
   ### Social
-  [![Linkedin](https://img.shields.io/badge/Gabriel%20Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-055146210/)
+  [![Linkedin](https://img.shields.io/badge/Gabriel%20Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabsouza4)
   [![Gmail](https://img.shields.io/badge/Gabriel_Souza-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfe.desouza@gmail.com)
   [![Instagram](https://img.shields.io/badge/g.sohz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/g.sohz/)
 

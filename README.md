@@ -1,15 +1,15 @@
 
 
-## 👋 Hi, I’m Gabriel Ferreira de Souza
+# 👋 Olá, me chamo Gabriel Ferreira de Souza
 
 <!-- Bio -->  
 <img height="130" align="right" src="https://media0.giphy.com/media/ZAaaCK5RhUWxG/200.gif" />
 <ul align="left">
-<li>🎓 I'm an <strong>Electronics Technician</strong> graduated from <i>ETEC Aristóteles Ferreira</i></li>
-<li>🏫 I'm currently studying <strong>Systems Analysis and Development</strong> at <i>IFSP - Cubatão</i></li>
-<li>👀 I’m interested in opportunities to challenge myself and improve my skills</li>
-<li>💞️ I love programming, audiovisual, music, automation, games, movies and series</li>
-<li>🌱 I’m currently learning <strong>Full Stack</strong></li>
+<li>🎓 Eu sou <strong>Técnico em Eletrônica</strong> formado na <i>ETEC Aristóteles Ferreira</i></li>
+<li>🏫 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo <i>IFSP - Cubatão</i></li>
+<li>👀 Estou interessado em oportunidades para alavancar minhas habilidades técnicas</li>
+<li>💞️ Eu amo programação, audiovisual, música, automação, jogos, filmes e séries</li>
+<li>🌱 Atualmente estou aprendendo <strong>Full Stack</strong> com foco em <strong>Java</strong> e <strong>React</strong></li>
 </ul>
 
 <div align="center">
@@ -20,46 +20,27 @@
  <hr>
 
 <!-- Known Languages -->  
-### Languages
+## Idiomas
 
-- Portuguese - Native language
+- Português - Língua nativa
 - English - Intermediate
-- Italian - Beginner
 
  <hr>
 
-<!-- Known Programming Languages -->  
-### Programming Languages
+## Techs
 <div>
- <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <img align="center" title="C#" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" title="C++" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
- <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
- <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">  
-</div>
-
- <hr>
-
-<!-- Known Programming Software --> 
-### Programming Software
-<div>
-  <img align="center" title="Arduino" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">  
-  <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
-  <img align="center" title="VisualStudioCode" alt="VisualStudioCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
-  <img align="center" title="VisualStudio" alt="VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"> 
-  <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
- <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
- <hr>
  
- <!-- Known Programming Frameworks --> 
- ### Programming Frameworks/Libraries
- <div>
-   <img align="center" title="Express.js" alt="Express.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-   <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div>
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
  <hr>
   

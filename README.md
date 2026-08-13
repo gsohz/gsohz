@@ -1,6 +1,6 @@
 
 
-# 👋 Olá, me chamo Gabriel Ferreira de Souza
+# 👋 Olá, me chamo Gabriel Souza
 
 <!-- Bio -->  
 <img height="130" align="right" src="https://media0.giphy.com/media/ZAaaCK5RhUWxG/200.gif" />

@@ -12,10 +12,12 @@
 <li>🌱 Atualmente estou aprendendo <strong>Full Stack</strong> com foco em <strong>Java</strong> e <strong>React</strong></li>
 </ul>
 
+<!--
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsohz&show_icons=true&theme=github_dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsohz&layout=compact&show_icons=true&theme=github_dark&hide=handlebars)"/>
 </div>
+-->
 
  <hr>
 

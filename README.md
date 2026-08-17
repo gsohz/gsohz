@@ -25,7 +25,7 @@
 ## Idiomas
 
 - Português - Língua nativa
-- English - Intermediate
+- English
 
  <hr>
 
